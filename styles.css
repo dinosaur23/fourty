@@ -79,3 +79,8 @@ h2 span {
 .right {
   right: 0;
 }
+.star {
+ background-image: url("/four star.png");
+ background-color: #cccccc;
+}
+
