@@ -83,4 +83,8 @@ h2 span {
  background-image: url("/four star.png");
  background-color: #cccccc;
 }
+.shows {
+	flex-wrap: nowrap; 
+	left:0;
+}
 
